@@ -68,6 +68,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the branch, commit and pull-request w
 
 ## Authors
 
-- Matheus
-- Collaborator: to be added
+- Matheus Andrade de Oliveira
+- Rafael de Souza Aquino
 
