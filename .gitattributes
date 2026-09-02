@@ -1,0 +1,2 @@
+# Office workbooks are binary and should have a single active editor.
+*.xlsx binary
