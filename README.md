@@ -35,11 +35,11 @@ Raw files are immutable: never edit a file in `data/raw/` manually. Transformati
 
 ## Workflow
 
-1. Collect and document source data.
-2. Clean and integrate a master dataset.
-3. Perform exploratory and seasonal analysis.
-4. Estimate econometric and forecasting models.
-5. Feed the demand forecast into the financial model.
+1. Collect and document source data;
+2. Clean and integrate a master dataset;
+3. Perform exploratory and seasonal analysis;
+4. Estimate econometric and forecasting models;
+5. Feed the demand forecast into the financial model;
 6. Evaluate scenarios, risk and investment feasibility.
 
 ## Getting started
